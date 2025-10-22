@@ -69,9 +69,6 @@ study_logs.csv
 Milestone1_EDA.ipynb
 
 Install dependencies (if needed):
-
-bash
-Copy code
 pip install pandas matplotlib seaborn
 Run the notebook cells sequentially in Google Colab
 
@@ -87,7 +84,10 @@ STUDYTRACK_AI_STUDENTRECOMMENDER/
 │   └── Milestone1_EDA.ipynb        # EDA notebook
 │
 ├── README.md                       # Project documentation
+
+
 📚 References
+
 Pandas Documentation
 
 Seaborn Documentation
@@ -97,6 +97,7 @@ Matplotlib Documentation
 Google Colab
 
 👨‍💻 Author
+
 Venusri Ankani
 venusriankani12@gmail.com
 
