@@ -72,20 +72,6 @@ Install dependencies (if needed):
 pip install pandas matplotlib seaborn
 Run the notebook cells sequentially in Google Colab
 
-📁 Project Structure
-bash
-Copy code
-STUDYTRACK_AI_STUDENTRECOMMENDER/
-│
-├── MILESTONE 1/
-│   ├── data/
-│   │   ├── students.csv            # Student data
-│   │   ├── study_logs.csv          # Study activity data
-│   └── Milestone1_EDA.ipynb        # EDA notebook
-│
-├── README.md                       # Project documentation
-
-
 📚 References
 
 Pandas Documentation
